@@ -1,6 +1,6 @@
 <h1>SQL Stored Procedure</h1>
 
- ### [SQL Code](file:///C:/Users/Pizzy/Downloads/CIS+310+A10_Lawrence_Pumphrey.pdf)
+ ### [SQL Code]([file:///C:/Users/Pizzy/Downloads/CIS+310+A10_Lawrence_Pumphrey.pdf](https://docs.google.com/document/d/1E0tUb9DEG3ORHrMftzme3b3GBJtVi9zPCfWLs2TA_eo/edit?usp=sharing)
 
 <h2>Description</h2>
 A simple SQL project where I was given 2 questions and had to create the stored procedures for them. 
